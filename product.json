@@ -1,0 +1,9 @@
+{
+    "products" : [
+        {"id" : 1, "name" : "PC Gamer", "category" : "Computadores", "amount" : 1, "value" : 3500},
+        {"id" : 2, "name" : "Teclado e Mouse", "category" : "Periféricos", "amount" : 2, "value" : 150},
+        {"id" : 3, "name" : "Smartphone", "category" : "Celular & Smartphone", "amount" : 2, "value" : 4500},
+        {"id" : 4, "name" : "Ar condicionado", "category" : "Ar e Ventilação", "amount" : 3, "value" : 7600},
+        {"id" : 5, "name" : "Placas-mãe", "category" : "Hardware", "amount" : 1, "value" : 5250},
+        {"id" : 6, "name" : "Caixa de Som", "category" : "Áudio", "amount" : 5, "value" : 1100}    ]
+}
